@@ -5,7 +5,7 @@ I also enjoy writing clean code, because as a wise man once said:
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand. (Martin Fowler)
 
 ## 💼 Experience
-- *?/2023 – 08/2024* **Frontend Developer** at ISCOPE, Osnabrück
+- *09/2023 – 08/2024* **Frontend Developer** at ISCOPE, Osnabrück
 - *10/2021 – 08/2023* **Intern / Working Student for Desing and Frontend Development** at ISCOPE, Osnabrück
 
 ## 🎓 Education
