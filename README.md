@@ -9,7 +9,7 @@ I also enjoy writing clean code, because as a wise man once said:
 - *10/2021 – 08/2023* **Intern / Working Student for Desing and Frontend Development** at ISCOPE, Osnabrück
 
 ## 🎓 Education
-- *02.09.2024 – 31.12.2025* **M.Sc. Computer Science** at University College Dublin
+- *09/2024 – 12/2025* **M.Sc. Computer Science** at University College Dublin
 - *05/2024 – 08/2024* **Prof.Cert. Mathematics for Data Analytics and Statistics** at University College Dublin
 - *2019 – 2023* **B.A. Media & Interaction Design** at Hochschule Osnabrück - University of Applied Sciences
 
